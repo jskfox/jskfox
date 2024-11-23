@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I am an **IT professional** with over **15 years of experience** in leading digital business and eCommerce initiatives. My expertise lies in developing scalable, high-performance solutions while fostering innovation and driving results.  
 
 🌍 Based in Mexicali, Mexico  
-📫 Email: [solanokirk@outlook.com](mailto:solanokirk@outlook.com)  
 🔗 [LinkedIn Profile](https://linkedin.com/in/jorge-skirk)  
 🌐 [Portfolio](http://portfolio.jskdev.com)  
 
