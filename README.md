@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I am an **IT professional** with over **15 years o
 ![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=for-the-badge)
 ![PayPal Badge](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff&style=for-the-badge)
 ![Mercado Pago Badge](https://img.shields.io/badge/Mercado%20Pago-00B1EA?logo=mercadopago&logoColor=fff&style=for-the-badge)
+![Mailgun Badge](https://img.shields.io/badge/Mailgun-F06B66?logo=mailgun&logoColor=fff&style=for-the-badge)
 
 - Payment Gateway Integrations  
 - Advertisement Campaigns  
@@ -88,7 +89,6 @@ Welcome to my GitHub profile! I am an **IT professional** with over **15 years o
 ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![Mikrotik Badge](https://img.shields.io/badge/Mikrotik-293239?logo=mikrotik&logoColor=fff&style=for-the-badge)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -96,8 +96,6 @@ Welcome to my GitHub profile! I am an **IT professional** with over **15 years o
 ![Nginx Proxy Manager Badge](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833?logo=nginxproxymanager&logoColor=fff&style=for-the-badge)
 ![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=fff&style=for-the-badge)
 ![Traefik Proxy Badge](https://img.shields.io/badge/Traefik%20Proxy-24A1C1?logo=traefikproxy&logoColor=fff&style=for-the-badge)
-![Mailgun Badge](https://img.shields.io/badge/Mailgun-F06B66?logo=mailgun&logoColor=fff&style=for-the-badge)
-
 
 ---
 
